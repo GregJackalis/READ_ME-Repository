@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TheJackal03
-- 👀 I’m interested in Back-End developing and Game developing too.
-- 🌱 I’m currently studying Computer Science at a College
-- 💞️ I’m looking to collaborate on Game Projects and any projects that include the C language.
+- 👋 Hi, I’m @TheJackal03.
+- 👀 I’m interested in Back-End developing and Game developing.
+- 🌱 I’m currently studying Computer Science at the University of Derby.
+- 💞️ I’m looking to collaborate on Game Projects and work for any projects that will offer me important knowledge around software engineer, game developing and more.
 - 📫 How to reach me => Email: gregorytsak3@gmail.com
