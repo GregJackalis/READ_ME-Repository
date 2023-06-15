@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheJackal03.
-- 👀 I’m interested in Back-End developing and Game developing.
+- 👀 I’m interested in Back-End, Front-End development and Game development.
 - 🌱 I’m currently studying Computer Science at the University of Derby.
-- 💞️ I’m looking to collaborate on Game Projects and work for any projects that will offer me important knowledge around software engineer, game developing and more.
+- 💞️ I’m looking to work on any projects that will offer me essential knowledge about software engineering, game development, and more.
 - 📫 How to reach me => Email: grigoriosTsakalis@gmail.com
